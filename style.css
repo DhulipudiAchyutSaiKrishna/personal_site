@@ -54,6 +54,11 @@ p {
   background-color: grey;
   border-radius: 50%;
 }
+.c{
+ display: inline;
+  height : 200px;
+  width : 200px;
+}
 .java {
   display: inline;
   height: 300px;
@@ -61,6 +66,8 @@ p {
 
 .python {
   display: inline;
+  height:400px;
+  width:400px;
 }
 .facebook{
 display: inline;
